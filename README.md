@@ -5,3 +5,5 @@ This is an example site for the Intro to Front-End Web Development course at the
 
 #Contact
 email:ttd3calvin@gmail.com
+
+Merge to Master Branch
